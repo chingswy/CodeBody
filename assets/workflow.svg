@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="64" viewBox="0 0 560 64"
+     role="img" aria-labelledby="title">
+  <title id="title">Image → Blender code → Rigged character</title>
+  <g fill="#faf9fb" stroke="#d8d5dc">
+    <rect x="5" y="10" width="110" height="44" rx="10"/>
+    <rect x="154" y="10" width="160" height="44" rx="10"/>
+    <rect x="353" y="10" width="202" height="44" rx="10"/>
+  </g>
+  <g fill="none" stroke="#89848d" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M123 32h23m-5-5 5 5-5 5"/>
+    <path d="M322 32h23m-5-5 5 5-5 5"/>
+  </g>
+  <g fill="none" stroke="#504a55" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="23" y="23" width="21" height="18" rx="3"/>
+    <circle cx="38" cy="28" r="1.4"/>
+    <path d="m25 38 6-7 5 5 2-2 4 4"/>
+    <path d="m176 26-6 6 6 6m11-12 6 6-6 6m-3-14-5 16"/>
+    <g stroke="#cc4817">
+      <circle cx="379" cy="23" r="2.7"/>
+      <path d="m369 28 10 3 10-3m-10 3v5m-6 7 6-7 6 7"/>
+      <circle cx="379" cy="31" r="1.5" fill="#faf9fb"/>
+      <circle cx="379" cy="36" r="1.5" fill="#faf9fb"/>
+    </g>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" fill="#28232f">
+    <text x="54" y="37">Image</text>
+    <text x="202" y="37">Blender code</text>
+    <text x="401" y="37">Rigged character</text>
+  </g>
+</svg>
